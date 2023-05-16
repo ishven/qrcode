@@ -11,7 +11,7 @@
           <div class=" text">
             <span style="font-weight: bold;">主要原料：</span>
           </div>
-          <div class="text item">鹿茸.鹿鞭.鹿筋.鹿尾.人参等等……</div>
+          <div class="text item">鹿茸.鹿鞭.鹿筋.鹿尾.人参等……</div>
           <div class=" text">
             <span style="font-weight: bold;">制作过程：</span>
           </div>
@@ -27,10 +27,14 @@
           </div>
           <div class="text item">本药酒渐补下元，生精益血，壮阳健骨。 肝肾阴虚、肝阳上亢等阴虚阳盛体质之人</div>
           <div class="text ">
-            <span style="font-weight: bold;"> 服用方法：</span>每晚睡前饮15-20ml。
+            <span style="font-weight: bold;"> 服用方法：</span>
+          </div>
+          <div class="text item">每晚睡前饮15-20ml</div>
+          <div class="text item">
+            <span style="font-weight: bold;color: red;"> 注意事项：脑血管病、高血压禁服</span>
           </div>
           <div class="text item">
-            <span style="font-weight: bold;"> 零售价：</span>¥1988.00元
+            <span style="font-weight: bold;"> 零售价：</span>¥1988
           </div>
         </el-card>
       </el-scrollbar>
