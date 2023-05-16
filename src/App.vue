@@ -6,7 +6,7 @@
 
 <script setup lang="ts">
 import router from './router';
-router.push("/")
+router.push({ name: "Introduce" })
 </script>
 
 <style scoped></style>
