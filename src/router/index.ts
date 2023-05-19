@@ -3,7 +3,7 @@ import { createRouter, createWebHistory } from 'vue-router'
 const routes = [
   {
     name: 'Introduce',
-    path: '/',
+    path: '/vue-qrcode',
     component: () => import('@/views/wine/Introduce.vue'),
     meta: { title: '登录', icon: "" }
   },
