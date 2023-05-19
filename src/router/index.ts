@@ -5,11 +5,11 @@ const routes = [
     path: '/',
     name: 'index',
     title: '首页',
-    redirect: '/vue-qrcode'
+    redirect: '/qrcode'
   },
   {
     name: 'Introduce',
-    path: '/vue-qrcode',
+    path: '/qrcode',
     component: () => import('@/views/wine/Introduce.vue'),
     meta: { title: '登录', icon: "" }
   },
