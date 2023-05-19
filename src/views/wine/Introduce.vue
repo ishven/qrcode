@@ -11,7 +11,7 @@
           <div class=" text">
             <span style="font-weight: bold;">主要原料：</span>
           </div>
-          <div class="text item">鹿茸.鹿鞭.鹿筋.鹿尾.人参等……</div>
+          <div class="text item">鹿茸，鹿鞭，鹿筋，鹿尾，人参，等.…选用53酱香酒泡制而成。真材实料放心喝，效果明显</div>
           <div class=" text">
             <span style="font-weight: bold;">制作过程：</span>
           </div>
@@ -19,7 +19,7 @@
           <div class="text">
             <span style="font-weight: bold;">功能功效：</span>
           </div>
-          <div class="text item">鹿茸有壮元阳，补气血，益精髓，强筋骨。治虚劳羸瘦，精神倦乏，眩晕，耳聋，目暗，腰膝酸痛，阳痿，滑精，子宫虚冷，崩漏，带下的作用，鹿筋能强筋壮骨、养血通络、生精益髓，主治劳损，续绝伤，大壮筋骨，补阳气。
+          <div class="text item">有壮元阳，补气血，益精髓，强筋骨。治虚劳羸瘦，精神倦乏，眩晕，耳聋，目暗，腰膝酸痛，阳痿，滑精，子宫虚冷，崩漏，带下的作用，鹿筋能强筋壮骨、养血通络、生精益髓，主治劳损，续绝伤，大壮筋骨，补阳气。
             鹿鞭主治治阳痿，肾虚耳呜，妇人子宫寒冷，久不受孕，慢性睾丸发炎
           </div>
           <div class=" text">
@@ -43,7 +43,6 @@
 </template>
 
 <script setup lang="ts">
-
 </script>
 
 <style scoped>
