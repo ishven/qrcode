@@ -2,11 +2,11 @@
     <el-row>
         <el-col>
             <el-card :body-style="{ padding: '0px' }">
-                <img src="@/assets/鹿鞭酒1988.jpg" class="image" />
+                <img src="@/assets/鹿鞭酒988.jpg" class="image" />
                 <div style="padding: 14px">
                     <span>鹿鞭酒</span>
                     <div class="bottom">
-                        <span class="time">零售价：¥1988</span>
+                        <span class="time">零售价：¥988</span>
                         <el-button text class="button" @click="showDetail">查看详情</el-button>
                     </div>
                 </div>
@@ -19,7 +19,7 @@
 import { useRouter } from 'vue-router'
 const router = useRouter()
 function showDetail() {
-    router.push({ name: "IntroduceDetail" });
+    router.push({ name: "IntroduceDetail01" });
 }
 </script>
 
