@@ -15,7 +15,7 @@
           <div class=" text">
             <span style="font-weight: bold;">制作过程：</span>
           </div>
-          <div class="text item">将人参，鹿茸.鹿鞭鹿尾.鹿筋.放入瓶中，再将十年以上53度的酱香酒倒入密封两年以上</div>
+          <div class="text item">将人参，鹿茸.鹿鞭鹿尾.鹿筋.放入瓶中，再将二十年以上53度的酱香酒倒入密封两年以上</div>
           <div class="text">
             <span style="font-weight: bold;">功能功效：</span>
           </div>
