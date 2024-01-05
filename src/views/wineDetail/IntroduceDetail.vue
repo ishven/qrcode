@@ -50,10 +50,6 @@
   justify-content: center;
 }
 
-/* .box-card {
-  width: 300px;
-} */
-
 .card-header {
   display: flex;
   justify-content: center;
