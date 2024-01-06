@@ -19,7 +19,7 @@
 import { useRouter } from 'vue-router'
 const router = useRouter()
 function showDetail() {
-    router.replace({ name: "IntroduceDetail03" });
+    router.push({ name: "IntroduceDetail03" });
 }
 </script>
 
