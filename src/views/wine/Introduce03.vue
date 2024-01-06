@@ -2,7 +2,7 @@
     <el-row>
         <el-col>
             <el-card :body-style="{ padding: '0px' }">
-                <img src="@/assets/鹿鞭酒88.jpg" class="image" />
+                <img src="@/assets/鹿鞭酒88.png" class="image" />
                 <div style="padding: 14px">
                     <span>鹿鞭酒</span>
                     <div class="bottom">
