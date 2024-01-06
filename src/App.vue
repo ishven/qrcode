@@ -1,12 +1,18 @@
 <template>
   <div id="app">
-    <div v-show="env">
-      <p>
+    <div class="btn" v-show="env">
+      <div>
         <router-link to="/qrcode/wine/Introduce">1988</router-link>
-      </p>
-      <p>
+      </div>
+      <div>
         <router-link to="/qrcode/wine/Introduce01">988</router-link>
-      </p>
+      </div>
+      <div>
+        <router-link to="/qrcode/wine/Introduce02">3988</router-link>
+      </div>
+      <div>
+        <router-link to="/qrcode/wine/Introduce03">88</router-link>
+      </div>
     </div>
     <router-view></router-view>
   </div>
@@ -16,4 +22,9 @@
 const env = import.meta.env.DEV
 </script>
 
-<style scoped></style>
+<style scoped>
+.btn {
+  display: flex;
+  justify-content: space-between;
+}
+</style>

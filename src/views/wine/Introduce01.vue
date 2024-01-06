@@ -44,6 +44,7 @@ function showDetail() {
 
 .image {
     width: 100%;
+    height: 450px;
     display: block;
 }
 </style>
