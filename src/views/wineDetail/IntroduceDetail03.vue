@@ -1,17 +1,17 @@
 <template>
   <el-row class="main">
     <el-scrollbar>
-      <TwentyYears>
+      <TenYears>
         <template #price>
           <span style="font-weight: bold;"> 零售价：</span>¥88
         </template>
-      </TwentyYears>
+      </TenYears>
     </el-scrollbar>
   </el-row>
 </template>
 
 <script setup lang="ts">
-import TwentyYears from '@/components/TwentyYears.vue'
+import TenYears from '@/components/TenYears.vue'
 </script>
 
 <style scoped>
