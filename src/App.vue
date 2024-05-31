@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <div class="btn" v-show="env">
+    <div class="btn">
       <div>
         <router-link to="/qrcode/wine/Introduce">1988</router-link>
       </div>
@@ -19,7 +19,7 @@
 </template>
 
 <script setup lang="ts">
-const env = import.meta.env.DEV
+// const env = import.meta.env.DEV
 </script>
 
 <style scoped>
